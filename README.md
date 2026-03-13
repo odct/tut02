@@ -74,23 +74,3 @@
 
 ---
 
-### 👤 Details
-
-#### ☁️ [N] 김소윤 Kim Soyoon
-> **Role:** Service Architect / Planner
-> **Skills:** SQLD, GTQ Illustrator, Startup Methodology
-> **Introduction:** "사용자 경험을 데이터로 설계하는 김소윤입니다."
-
-#### ☁️ [C] 원유청 Won Yu-cheong
-> **Role:** Creative Director
-> **Skills:** Content Strategy, Communication
-> **Introduction:** "창의적인 아이디어를 서비스로 연결하는 원유청입니다."
-
-#### ☁️ [T] 이태현 Lee Tae-hyeon
-> **Role:** Technical Lead
-> **Skills:** Implementation, Optimization
-> **Introduction:** "기술적 한계를 돌파하는 개발자 이태현입니다."
-
----
-
-*© 2026 NCT dreams. All rights reserved.*
