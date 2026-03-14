@@ -3,7 +3,8 @@
 ## 🎤 NCT dreams
 ---
 ### 👥 NCT Dreams Introduction
-> 저희 NCT Dreams는 김소윤, 원유청, 이태현 3명의 멤버가 모여 구성된 팀으로서, 세 멤버의 이니셜 SoYoo'N', Yoo'C'hung, 'T'aeHyun 과 세 멤버의 공통된 MBTI인 N의 특징 1) 상상력 풍부 2) 미래지향적 사고 3) 오픈 마인드 을 결합하여 NCT Dreams 라고 짓게 되었습니다.
+> 저희 NCT Dreams는 김소윤, 원유청, 이태현 3명의 멤버가 모여 구성된 팀으로서, 세 멤버의 이니셜 SoYoo **'N'**, Yoo **'C'** hung, **'T'** aeHyun 과
+> 세 멤버의 공통된 MBTI인 **N**의 특징 1) 상상력 풍부 2) 미래지향적 사고 3) 오픈 마인드 을 결합하여 **NCT Dreams** 라고 짓게 되었습니다.
 ---
 > [!NOTE]
 >🎨**NCT Dreams의 성공 공식**
