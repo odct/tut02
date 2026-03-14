@@ -23,7 +23,7 @@
 ---
 ## 🌟 멤버 소개
 
-| 구분 | <img src="image_d1d763.png" width="150" height="150"> | <img src="image_d1d483.png" width="150" height="150"> | <img src="KakaoTalk_20260315_003938680.jpg" width="150" height="150"> |
+| 구분 | <img src="KakaoTalk_20260315_003956975.jpg"> | <img src="image_d1d483.png" width="150" height="150"> | <img src="KakaoTalk_20260315_003938680.jpg" width="150" height="150"> |
 | :---: | :---: | :---: | :---: |
 | | **N** | **C** | **T** |
 | **이름** | **김소윤** | **원유청** | **이태현** |
