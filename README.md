@@ -70,7 +70,7 @@
 
 | ☁️ Kim Soyoon | ☁️ Won Yu-cheong | ☁️ Lee Tae-hyeon |
 | :---: | :---: | :---: |
-| [![N-김소윤](https://img.shields.io/badge/N-김소윤-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/김소윤아이디) | [![C-원유청](https://img.shields.io/badge/C-원유청-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/원유청아이디) | [![T-이태현](https://img.shields.io/badge/T-이태현-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/이태현아이디) |
+| [![N-김소윤](https://img.shields.io/badge/N-김소윤-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odct) | [![C-원유청](https://img.shields.io/badge/C-원유청-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FancyYc) | [![T-이태현](https://img.shields.io/badge/T-이태현-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leten02) |
 
 ---
 
